@@ -15,3 +15,7 @@ Reverse strings.
 Count vowels and consonants in a string.
 Convert the case of a string (upper to lower and vice versa).
 
+
+Create Task (POST Request):
+Here, we are sending a POST request with task information such as id, name, description, and completed status to create a new task in the application.
+![Uploading Screenshot 2024-12-13 121901.png…]()
